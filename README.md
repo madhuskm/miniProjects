@@ -1,0 +1,2 @@
+# miniProjects
+Practice
